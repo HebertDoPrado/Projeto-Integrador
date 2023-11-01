@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="./cadastro.css" />
+    <title>Cadastro Safety School</title>
+  </head>
+  <body>
+    <div>
+      <img src="/Imagens/principal.png" alt="" class="titulo" />
+      <hr id="primeiroHr" />
+    </div>
+    <div class="colorFundo">
+      <div class="conteudoTotal">
+        <img src="/Imagens/logo.png" id="logoPrincipal" alt="" />
+        <hr id="segundoHr" />
+        <p id="crieSuaConta">Crie sua conta</p>
+
+        <p id="possuiConta">Já possui uma conta? faça seu</p>
+        <p id="linkPaginaInicial">
+          <a href="/LoginSenha/index.html">login aqui</a>
+        </p>
+
+        <div class="container">
+          <p class="textoNomeCompleto">Nome completo:</p>
+          <input type="text" id="campoNomeCompleto" required />
+        </div>
+
+        <div class="container">
+          <p class="textoDataDeNascimento">Nascimento:</p>
+          <input type="date" required id="nascimento" />
+        </div>
+
+        <div class="container">
+          <p class="textoDataDeNascimento">contato:</p>
+          <input type="tel" required id="date" />
+        </div>
+       
+        <div class="containerSenhaEmail">
+          <p class="textoEmail">E-mail:</p>
+          <input type="email" id="campoEmail" required />
+        </div>
+        <div class="containerSenhaEmail">
+          <p class="textoSenha">Senha:</p>
+          <input type="password" id="campoSenha" required />
+        </div>
+        <h3 id="endereco">Endereço</h3>
+        <div class="container">
+          <p class="textoCep">Cep:</p>
+          <input type="text" id="campoCep" required />
+        </div>
+        <div class="container">
+          <p class="textoEndereco">Endereco:</p>
+          <input type="text" id="campoEndereco" required />
+        </div>
+        <div class="container">
+          <p class="textoNumero">Numero:</p>
+          <input type="text" id="campoNumero" required />
+        </div>
+        <div class="container">
+          <p class="textoComplemento">Complemento:</p>
+          <input type="text" id="campoComplemento" required />
+        </div>
+        <div class="container">
+          <p class="textoBairro">Bairro:</p>
+          <input type="text" id="campoBairro" required />
+        </div>
+        <div class="container">
+          <p class="textoCidade">Cidade:</p>
+          <input type="text" id="campoCidade" required />
+        </div>
+        <div class="container">
+          <p class="textoUf">UF:</p>
+          <input type="text" id="textoUf" required />
+        </div>
+
+        <button type="button" class="buttonCadastrar">Cadastrar</button>
+
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

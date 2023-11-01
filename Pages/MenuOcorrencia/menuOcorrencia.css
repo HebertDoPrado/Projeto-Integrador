@@ -1,0 +1,36 @@
+@import url("https://fonts.googleapis.com/css2?family=Bangers&family=Bebas+Neue&family=Caprasimo&family=Geostar&family=Hind+Siliguri&family=Montserrat&family=Open+Sans&family=Pacifico&family=Roboto&family=Satisfy&family=Tilt+Prism&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Bangers&family=Bebas+Neue&family=Caprasimo&family=Geostar&family=Hind+Siliguri&family=Manrope:wght@700&family=Montserrat&family=Open+Sans&family=Pacifico&family=Roboto&family=Satisfy&family=Tilt+Prism&display=swap");
+
+.titulo {
+  width: 95px;
+  height: 88px;
+  margin-right: 50px;
+}
+
+.conteudoTotal {
+  border: 1px solid black;
+  width: 600px;
+  height: 580px;
+  margin-left: 480px;
+  border-radius: 20px;
+  background-color: white;
+}
+
+.corfundo {
+  color: black;
+}
+
+#primeiroHr {
+  width: 100%;
+}
+
+#corFundo {
+  background-color: brown;
+}
+
+#colorFundo {
+  background-color: gainsboro;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+}

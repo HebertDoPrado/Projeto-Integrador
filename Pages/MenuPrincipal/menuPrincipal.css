@@ -1,0 +1,77 @@
+@import url("https://fonts.googleapis.com/css2?family=Bangers&family=Bebas+Neue&family=Caprasimo&family=Geostar&family=Hind+Siliguri&family=Montserrat&family=Open+Sans&family=Pacifico&family=Roboto&family=Satisfy&family=Tilt+Prism&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Bangers&family=Bebas+Neue&family=Caprasimo&family=Geostar&family=Hind+Siliguri&family=Manrope:wght@700&family=Montserrat&family=Open+Sans&family=Pacifico&family=Roboto&family=Satisfy&family=Tilt+Prism&display=swap");
+
+.logoTitulo {
+  width: 95px;
+  height: 88px;
+  margin-right: 50px;
+}
+
+.primeiroHr {
+  width: 100%;
+}
+
+.colorFundo {
+  background-color: gainsboro;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+}
+
+.conteudoTotal {
+  border: 1px solid black;
+  width: 600px;
+  height: 800px;
+  margin-left: 480px;
+  border-radius: 20px;
+  background-color: white;
+}
+
+.container {
+  margin-left: 0px;
+  border: 1px solid black;
+  border-radius: 17px;
+  background-color: red;
+  height: 100px;
+}
+
+.textoInicio {
+  margin-left: 250px;
+  color: white;
+  font-size: 40px;
+  font-family: Roboto, sans-serif, serif;
+  margin-bottom: 50px;
+}
+
+.conteudoOcorrencia {
+  border: 1px solid black;
+  height: 190px;
+  width: 270px;
+  margin-top: 40px;
+  margin-left: 25px;
+  background-color: red;
+  border-radius: 10px;
+}
+.ConteudoDaImgOcorrencia {
+  border: 1px solid black;
+  height: 130px;
+  width: 225px;
+  background-color: white;
+  margin-left: 20px;
+  margin-top: 10px;
+  border-radius: 10px;
+}
+
+.imgBalao {
+  height: 130px;
+  width: 140px;
+  margin-left: 38px;
+}
+
+.textoOcorrencia {
+  color: white;
+  font-size: 30px;
+  font-family: Roboto, sans-serif, serif;
+  padding: 43px;
+  text-decoration: none;
+}

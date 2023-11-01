@@ -1,0 +1,306 @@
+@import url("https://fonts.googleapis.com/css2?family=Bangers&family=Bebas+Neue&family=Caprasimo&family=Geostar&family=Hind+Siliguri&family=Montserrat&family=Open+Sans&family=Pacifico&family=Roboto&family=Satisfy&family=Tilt+Prism&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Bangers&family=Bebas+Neue&family=Caprasimo&family=Geostar&family=Hind+Siliguri&family=Manrope:wght@700&family=Montserrat&family=Open+Sans&family=Pacifico&family=Roboto&family=Satisfy&family=Tilt+Prism&display=swap");
+
+.titulo {
+  width: 95px;
+  height: 88px;
+  margin-right: 50px;
+}
+#primeiroHr {
+  width: 100%;
+}
+
+.conteudoTotal {
+  border: 1px solid black;
+  width: 600px;
+  height: 1210px;
+  margin-left: 480px;
+  border-radius: 20px;
+  background-color: white;
+}
+
+.colorFundo {
+  background-color: gainsboro;
+  width: 100%;
+  height: 100%;
+}
+
+#logoPrincipal {
+  height: 113px;
+  width: 120px;
+  margin-left: 240px;
+}
+
+.container {
+  display: inline-block;
+}
+.texto {
+  margin-right: 10px;
+  font-family: Roboto, sans-serif, serif;
+  font-size: 18px;
+  margin-bottom: 3px;
+}
+
+.textoDataDeNascimento {
+  margin-left: 55px;
+  font-family: Roboto, sans-serif, serif;
+  font-size: 18px;
+  margin-bottom: 3px;
+}
+#date {
+  background-color: red;
+  border-radius: 10px;
+  height: 38px;
+  width: 260px;
+  border: 1px solid black;
+  color: white;
+  margin-top: 0px;
+  margin-left: 55px;
+}
+
+#nascimento {
+  background-color: red;
+  border-radius: 10px;
+  height: 38px;
+  width: 128px;
+  border: 1px solid black;
+  color: white;
+  margin-top: 0px;
+  margin-left: 55px;
+}
+.textoNomeCompleto {
+  margin-left: 55px;
+  font-family: Roboto, sans-serif, serif;
+  font-size: 18px;
+  margin-bottom: 3px;
+}
+
+#segundoHr {
+  margin-bottom: 10px;
+  margin-top: 0px;
+}
+
+#campoNomeCompleto {
+  background-color: red;
+  border-radius: 10px;
+  height: 34px;
+  width: 450px;
+  border: 1px solid black;
+  color: white;
+  margin-left: 55px;
+}
+
+#campoEmail {
+  background-color: red;
+  border-radius: 10px;
+  height: 38px;
+  width: 450px;
+  border: 1px solid black;
+  color: white;
+  margin-top: 0px;
+  margin-left: 55px;
+}
+
+#campoSenha {
+  background-color: red;
+  border-radius: 10px;
+  height: 38px;
+  width: 450px;
+  border: 1px solid black;
+  color: white;
+  margin-top: 0px;
+  margin-left: 55px;
+}
+
+#password {
+  background-color: red;
+  margin-top: 15px;
+  color: white;
+  border-radius: 2px;
+  height: 38px;
+  width: 518px;
+  border: 1px solid black;
+}
+#crieSuaConta {
+  margin-left: 145px;
+  font-family: Manrope, sans-serif, serif;
+  font-size: 50px;
+  margin-top: 0px;
+}
+
+#linkPaginaInicial {
+  font-size: 15px;
+  font-family: Roboto, sans-serif, serif;
+  margin-left: 280px;
+  margin-top: -12px;
+}
+
+#possuiConta {
+  font-size: 15px;
+  font-family: Roboto, sans-serif, serif;
+  margin-left: 205px;
+  margin-top: -50px;
+}
+
+#linkPaginaInicial a {
+  color: blue;
+}
+
+.textoEmail {
+  margin-right: 10px;
+  font-family: Roboto, sans-serif, serif;
+  margin-left: 55px;
+  font-size: 18px;
+  margin-bottom: 3px;
+}
+
+.textoSenha {
+  margin-right: 10px;
+  font-family: Roboto, sans-serif, serif;
+  margin-left: 55px;
+  font-size: 18px;
+  margin-bottom: 3px;
+}
+#endereco {
+  margin-left: 30px;
+  font-family: Manrope, sans-serif, serif;
+  font-size: 23px;
+  margin-bottom: 5px;
+}
+
+.textoCep {
+  margin-left: 55px;
+  font-family: Roboto, sans-serif, serif;
+  font-size: 18px;
+  margin-bottom: 3px;
+}
+
+#campoCep {
+  background-color: red;
+  border-radius: 10px;
+  height: 34px;
+  width: 450px;
+  border: 1px solid black;
+  color: white;
+  margin-left: 55px;
+}
+
+.textoEndereco {
+  margin-left: 55px;
+  font-family: Roboto, sans-serif, serif;
+  font-size: 18px;
+  margin-bottom: 3px;
+}
+
+#campoEndereco {
+  background-color: red;
+  border-radius: 10px;
+  height: 34px;
+  width: 450px;
+  border: 1px solid black;
+  color: white;
+  margin-left: 55px;
+}
+
+#campoNumero {
+  background-color: red;
+  border-radius: 10px;
+  height: 34px;
+  width: 180px;
+  border: 1px solid black;
+  color: white;
+  margin-left: 55px;
+}
+.textoNumero {
+  margin-left: 55px;
+  font-family: Roboto, sans-serif, serif;
+  font-size: 18px;
+  margin-bottom: 3px;
+}
+
+.textoComplemento {
+  margin-left: 83px;
+  font-family: Roboto, sans-serif, serif;
+  font-size: 18px;
+  margin-bottom: 3px;
+}
+
+#campoComplemento {
+  background-color: red;
+  border-radius: 10px;
+  height: 34px;
+  width: 180px;
+  border: 1px solid black;
+  color: white;
+  margin-left: 80px;
+}
+
+.textoBairro {
+  margin-left: 55px;
+  font-family: Roboto, sans-serif, serif;
+  font-size: 18px;
+  margin-bottom: 3px;
+}
+
+#campoBairro {
+  background-color: red;
+  border-radius: 10px;
+  height: 34px;
+  width: 450px;
+  border: 1px solid black;
+  color: white;
+  margin-left: 55px;
+}
+
+.textoCidade {
+  margin-left: 55px;
+  font-family: Roboto, sans-serif, serif;
+  font-size: 18px;
+  margin-bottom: 3px;
+}
+
+#campoCidade {
+  background-color: red;
+  border-radius: 10px;
+  height: 34px;
+  width: 180px;
+  border: 1px solid black;
+  color: white;
+  margin-left: 55px;
+}
+
+.textoUf {
+  margin-left: 55px;
+  font-family: Roboto, sans-serif, serif;
+  font-size: 18px;
+  margin-bottom: 3px;
+}
+
+#textoUf {
+  background-color: red;
+  border-radius: 10px;
+  height: 34px;
+  width: 180px;
+  border: 1px solid black;
+  color: white;
+  margin-left: 80px;
+}
+
+.buttonCadastrar {
+  background-color: red;
+  margin-left: 187px;
+  width: 200px;
+  height: 40px;
+  font-family: Roboto, sans-serif, serif;
+  font-size: 20px;
+  border-radius: 10px;
+  margin-bottom: 10px;
+  color: white;
+  cursor: pointer;
+  margin-top: 50px;
+}
+
+.buttonCadastrar a {
+  text-decoration: none;
+  color: white;
+}
